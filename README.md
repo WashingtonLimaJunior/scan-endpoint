@@ -1,2 +1,2 @@
 # scan-endpoint
-Programa para monitoramento de portas no Windows 
+Projeto de Cybersecurity com o objetivo de Scanear e Mapear portas no Windows 
